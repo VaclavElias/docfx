@@ -173,6 +173,8 @@
             ],
             "id": "BuildFromProject_Inheritdoc_Dispose_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "implements": [
             {
@@ -226,7 +228,6 @@
           "sourceurl": "https://github.com/dotnet/docfx/blob/main/samples/seed/dotnet/project/Project/Inheritdoc.cs/#L13",
           "remarks": "",
           "conceptual": "",
-          "seealso": null,
           "id": "BuildFromProject_Inheritdoc_Dispose",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -350,6 +351,8 @@
             ],
             "id": "BuildFromProject_Inheritdoc_Issue7628_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "method",
           "summary": "<p sourcefile=\"obj/api/BuildFromProject.Inheritdoc.yml\" sourcestartlinenumber=\"2\">This method should do something...</p>\n",
@@ -359,7 +362,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "BuildFromProject_Inheritdoc_Issue7628",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -483,6 +485,8 @@
             ],
             "id": "BuildFromProject_Inheritdoc_Issue7629_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "implements": [
             {
@@ -536,7 +540,6 @@
           "sourceurl": "https://github.com/dotnet/docfx/blob/main/samples/seed/dotnet/project/Project/Inheritdoc.cs/#L15",
           "remarks": "",
           "conceptual": "",
-          "seealso": null,
           "id": "BuildFromProject_Inheritdoc_Issue7629",
           "hideTitleType": false,
           "hideSubtitle": false

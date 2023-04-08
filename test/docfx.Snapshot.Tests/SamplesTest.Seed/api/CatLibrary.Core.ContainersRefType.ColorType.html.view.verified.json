@@ -175,6 +175,8 @@
           ],
           "namespace": "CatLibrary.Core",
           "example": [],
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "field",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.Core.ContainersRefType.ColorType.yml\" sourcestartlinenumber=\"2\">blue</p>\n",
@@ -184,7 +186,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_Core_ContainersRefType_ColorType_Blue",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -310,6 +311,8 @@
           ],
           "namespace": "CatLibrary.Core",
           "example": [],
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "field",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.Core.ContainersRefType.ColorType.yml\" sourcestartlinenumber=\"2\">red</p>\n",
@@ -319,7 +322,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_Core_ContainersRefType_ColorType_Red",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -445,6 +447,8 @@
           ],
           "namespace": "CatLibrary.Core",
           "example": [],
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "field",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.Core.ContainersRefType.ColorType.yml\" sourcestartlinenumber=\"2\">yellow</p>\n",
@@ -454,7 +458,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_Core_ContainersRefType_ColorType_Yellow",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -572,6 +575,8 @@
       }
     ]
   },
+  "exceptions": [],
+  "seealso": [],
   "level": 0.0,
   "_appName": "Seed",
   "_appTitle": "docfx seed website",
@@ -592,7 +597,6 @@
   "remarks": "",
   "conceptual": "",
   "implements": "",
-  "seealso": null,
   "id": "CatLibrary_Core_ContainersRefType_ColorType",
   "hideTitleType": false,
   "hideSubtitle": false,

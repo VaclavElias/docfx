@@ -175,6 +175,8 @@
           ],
           "namespace": "CatLibrary.Core",
           "example": [],
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "field",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.Core.ContainersRefType.yml\" sourcestartlinenumber=\"2\">ColorCount</p>\n",
@@ -184,7 +186,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_Core_ContainersRefType_ColorCount",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -362,6 +363,8 @@
             ],
             "id": "CatLibrary_Core_ContainersRefType_GetColorCount_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "property",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.Core.ContainersRefType.yml\" sourcestartlinenumber=\"2\">GetColorCount</p>\n",
@@ -371,7 +374,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_Core_ContainersRefType_GetColorCount",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -595,6 +597,8 @@
             ],
             "id": "CatLibrary_Core_ContainersRefType_ContainersRefTypeNonRefMethod_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "method",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.Core.ContainersRefType.yml\" sourcestartlinenumber=\"2\">ContainersRefTypeNonRefMethod</p>\n<param name=\"parmsArray\">array\n",
@@ -604,7 +608,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_Core_ContainersRefType_ContainersRefTypeNonRefMethod_System_Object___",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -864,6 +867,8 @@
       }
     ]
   },
+  "exceptions": [],
+  "seealso": [],
   "level": 0.0,
   "inheritedMembers": [
     {
@@ -1180,7 +1185,6 @@
   "remarks": "",
   "conceptual": "",
   "implements": "",
-  "seealso": null,
   "id": "CatLibrary_Core_ContainersRefType",
   "hideTitleType": false,
   "hideSubtitle": false,

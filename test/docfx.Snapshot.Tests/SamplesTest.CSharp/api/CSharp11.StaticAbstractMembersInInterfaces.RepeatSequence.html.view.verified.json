@@ -543,6 +543,8 @@
             ],
             "id": "CSharp11_StaticAbstractMembersInInterfaces_RepeatSequence_ToString_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "method",
           "summary": "",
@@ -552,7 +554,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CSharp11_StaticAbstractMembersInInterfaces_RepeatSequence_ToString",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -772,6 +773,8 @@
             ],
             "id": "CSharp11_StaticAbstractMembersInInterfaces_RepeatSequence_op_Increment_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "implements": [
             {
@@ -826,7 +829,6 @@
           "sourceurl": "https://github.com/dotnet/docfx/blob/main/samples/csharp/src/CSharp11.cs/#L17",
           "remarks": "",
           "conceptual": "",
-          "seealso": null,
           "id": "CSharp11_StaticAbstractMembersInInterfaces_RepeatSequence_op_Increment_CSharp11_StaticAbstractMembersInInterfaces_RepeatSequence_",
           "hideTitleType": false,
           "hideSubtitle": false

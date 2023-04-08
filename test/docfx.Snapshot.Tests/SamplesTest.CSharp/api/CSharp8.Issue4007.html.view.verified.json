@@ -481,6 +481,8 @@
       }
     ]
   },
+  "exceptions": [],
+  "seealso": [],
   "inheritance": [
     {
       "uid": "System.Object",
@@ -992,7 +994,6 @@
   "remarks": "",
   "conceptual": "",
   "implements": "",
-  "seealso": null,
   "id": "CSharp8_Issue4007",
   "hideTitleType": false,
   "hideSubtitle": false,

@@ -173,6 +173,8 @@
             ],
             "id": "BuildFromProject_Class1_Issue1651_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "method",
           "summary": "<p sourcefile=\"obj/api/BuildFromProject.Class1.yml\" sourcestartlinenumber=\"2\">Pricing models are used to calculate theoretical option values</p>\n<ul><li><span class=\"term\">1</span>Black Scholes</li><li><span class=\"term\">2</span>Black76</li><li><span class=\"term\">3</span>Black76Fut</li><li><span class=\"term\">4</span>Equity Tree</li><li><span class=\"term\">5</span>Variance Swap</li><li><span class=\"term\">6</span>Dividend Forecast</li></ul>\n",
@@ -182,7 +184,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "BuildFromProject_Class1_Issue1651",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -307,6 +308,8 @@
             ],
             "id": "BuildFromProject_Class1_Issue7484_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "method",
           "summary": "",
@@ -315,7 +318,6 @@
           "sourceurl": "https://github.com/dotnet/docfx/blob/main/samples/seed/dotnet/project/Project/Class1.cs/#L39",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "BuildFromProject_Class1_Issue7484",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -439,6 +441,7 @@
             ],
             "id": "BuildFromProject_Class1_Issue896_"
           },
+          "exceptions": [],
           "seealso": [
             {
               "linkType": "cRef",
@@ -621,6 +624,8 @@
             ],
             "id": "BuildFromProject_Class1_XmlCommentIncludeTag_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "method",
           "summary": "<p sourcefile=\"obj/api/BuildFromProject.Class1.yml\" sourcestartlinenumber=\"2\">This method should do something...</p>\n",
@@ -629,7 +634,6 @@
           "sourceurl": "https://github.com/dotnet/docfx/blob/main/samples/seed/dotnet/project/Project/Class1.cs/#L9",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "BuildFromProject_Class1_XmlCommentIncludeTag",
           "hideTitleType": false,
           "hideSubtitle": false

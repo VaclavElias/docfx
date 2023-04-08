@@ -317,6 +317,8 @@
             ],
             "id": "BuildFromProject_Inheritdoc_Issue6366_Class1_1_TestMethod1_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "method",
           "summary": "<p sourcefile=\"obj/api/BuildFromProject.Inheritdoc.Issue6366.Class1-1.yml\" sourcestartlinenumber=\"2\">This text inherited.</p>\n",
@@ -326,7 +328,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "BuildFromProject_Inheritdoc_Issue6366_Class1_1_TestMethod1__0_System_Int32_",
           "hideTitleType": false,
           "hideSubtitle": false

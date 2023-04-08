@@ -175,6 +175,8 @@
           ],
           "namespace": "MRef.Demo.Enumeration",
           "example": [],
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "field",
           "summary": "<p sourcefile=\"obj/api/MRef.Demo.Enumeration.ColorType.yml\" sourcestartlinenumber=\"2\">blue like river</p>\n",
@@ -184,7 +186,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "MRef_Demo_Enumeration_ColorType_Blue",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -310,6 +311,8 @@
           ],
           "namespace": "MRef.Demo.Enumeration",
           "example": [],
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "field",
           "summary": "<p sourcefile=\"obj/api/MRef.Demo.Enumeration.ColorType.yml\" sourcestartlinenumber=\"2\">this color is red</p>\n",
@@ -319,7 +322,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "MRef_Demo_Enumeration_ColorType_Red",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -445,6 +447,8 @@
           ],
           "namespace": "MRef.Demo.Enumeration",
           "example": [],
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "field",
           "summary": "<p sourcefile=\"obj/api/MRef.Demo.Enumeration.ColorType.yml\" sourcestartlinenumber=\"2\">yellow comes from desert</p>\n",
@@ -454,7 +458,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "MRef_Demo_Enumeration_ColorType_Yellow",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -573,6 +576,7 @@
       }
     ]
   },
+  "exceptions": [],
   "seealso": [
     {
       "linkType": "cRef",

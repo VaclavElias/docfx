@@ -354,6 +354,8 @@
       "description": "<p sourcefile=\"obj/api/CatLibrary.FakeDelegate-1.yml\" sourcestartlinenumber=\"1\">Return a fake number to confuse you.</p>\n"
     }
   },
+  "exceptions": [],
+  "seealso": [],
   "level": 0.0,
   "_appName": "Seed",
   "_appTitle": "docfx seed website",
@@ -374,7 +376,6 @@
   "remarks": "",
   "conceptual": "",
   "implements": "",
-  "seealso": null,
   "id": "CatLibrary_FakeDelegate_1",
   "hideTitleType": false,
   "hideSubtitle": false,

@@ -173,6 +173,8 @@
             ],
             "id": "CatLibrary_Cat_2__ctor_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "constructor",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.Cat-2.yml\" sourcestartlinenumber=\"2\">Default constructor.</p>\n",
@@ -182,7 +184,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_Cat_2__ctor",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -356,6 +357,8 @@
             ],
             "id": "CatLibrary_Cat_2__ctor_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "constructor",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.Cat-2.yml\" sourcestartlinenumber=\"2\">Constructor with one generic parameter.</p>\n",
@@ -365,7 +368,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_Cat_2__ctor__0_",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -679,6 +681,8 @@
             ],
             "id": "CatLibrary_Cat_2__ctor_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "constructor",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.Cat-2.yml\" sourcestartlinenumber=\"2\">It's a complex constructor. The parameter will have some attributes.</p>\n",
@@ -688,7 +692,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_Cat_2__ctor_System_String_System_Int32__System_String_System_Boolean_",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -821,6 +824,8 @@
           ],
           "namespace": "CatLibrary",
           "example": [],
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "attributes": [
             {
@@ -842,7 +847,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_Cat_2_isHealthy",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -1020,6 +1024,8 @@
             ],
             "id": "CatLibrary_Cat_2_Age_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "property",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.Cat-2.yml\" sourcestartlinenumber=\"2\">Hint cat's age.</p>\n",
@@ -1029,7 +1035,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_Cat_2_Age",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -1249,6 +1254,8 @@
             ],
             "id": "CatLibrary_Cat_2_Item_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "property",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.Cat-2.yml\" sourcestartlinenumber=\"2\">This is index property of Cat. You can see that the visibility is different between <code>get</code> and <code>set</code> method.</p>\n",
@@ -1258,7 +1265,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_Cat_2_Item_System_String_",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -1429,6 +1435,8 @@
             ],
             "id": "CatLibrary_Cat_2_Name_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "implements": [
             {
@@ -1482,7 +1490,6 @@
           "sourceurl": "https://github.com/dotnet/docfx/blob/main/samples/seed/dotnet/solution/CatLibrary/Class1.cs/#L255",
           "remarks": "",
           "conceptual": "",
-          "seealso": null,
           "id": "CatLibrary_Cat_2_Name",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -1720,54 +1727,8 @@
             ],
             "id": "CatLibrary_Cat_2_CalculateFood_"
           },
-          "exceptions": [
-            {
-              "type": {
-                "uid": "System.ArgumentException",
-                "name": [
-                  {
-                    "lang": "csharp",
-                    "value": "ArgumentException"
-                  },
-                  {
-                    "lang": "vb",
-                    "value": "ArgumentException"
-                  }
-                ],
-                "nameWithType": [
-                  {
-                    "lang": "csharp",
-                    "value": "ArgumentException"
-                  },
-                  {
-                    "lang": "vb",
-                    "value": "ArgumentException"
-                  }
-                ],
-                "fullName": [
-                  {
-                    "lang": "csharp",
-                    "value": "System.ArgumentException"
-                  },
-                  {
-                    "lang": "vb",
-                    "value": "System.ArgumentException"
-                  }
-                ],
-                "specName": [
-                  {
-                    "lang": "csharp",
-                    "value": "<xref uid=\"System.ArgumentException\" text=\"ArgumentException\"/>"
-                  },
-                  {
-                    "lang": "vb",
-                    "value": "<xref uid=\"System.ArgumentException\" text=\"ArgumentException\"/>"
-                  }
-                ]
-              },
-              "description": "<p sourcefile=\"specs/Cat.CalculateFood.md\" sourcestartlinenumber=\"1\">This is an <code sourcefile=\"specs/Cat.CalculateFood.md\" sourcestartlinenumber=\"1\">overridden</code> argument exception. you can add additional exception by adding different exception <code sourcefile=\"specs/Cat.CalculateFood.md\" sourcestartlinenumber=\"1\">type</code>.</p>\n"
-            }
-          ],
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "conceptual": "\n<p sourcefile=\"specs/Cat.CalculateFood.md\" sourcestartlinenumber=\"17\">This is overriding methods. You can override parameter descriptions for methods, you can even add exceptions to methods. Check the intermediate <code sourcefile=\"specs/Cat.CalculateFood.md\" sourcestartlinenumber=\"17\">obj</code> folder to see the data model of the generated method/class. Override Yaml header should follow the data structure.</p>\n",
           "type": "method",
@@ -1777,7 +1738,6 @@
           "sourceurl": "https://github.com/dotnet/docfx/blob/main/samples/seed/dotnet/solution/CatLibrary/Class1.cs/#L145",
           "remarks": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_Cat_2_CalculateFood_System_DateTime_",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -2039,6 +1999,8 @@
             ],
             "id": "CatLibrary_Cat_2_Equals_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "method",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.Cat-2.yml\" sourcestartlinenumber=\"2\">Override the method of <code>Object.Equals(object obj).</code></p>\n",
@@ -2048,7 +2010,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_Cat_2_Equals_System_Object_",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -2314,6 +2275,8 @@
             ],
             "id": "CatLibrary_Cat_2_GetTailLength_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "method",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.Cat-2.yml\" sourcestartlinenumber=\"2\">It's an <code>unsafe</code> method.\nAs you see, <code data-dev-comment-type=\"paramref\" class=\"paramref\">catName</code> is a <strong>pointer</strong>, so we need to add <code data-dev-comment-type=\"languageKeyword\" class=\"languageKeyword\">unsafe</code> keyword.</p>\n",
@@ -2323,7 +2286,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_Cat_2_GetTailLength_System_Int32__System_Object___",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -2640,6 +2602,7 @@
               "description": "<p sourcefile=\"obj/api/CatLibrary.Cat-2.yml\" sourcestartlinenumber=\"1\">This is an argument exception</p>\n"
             }
           ],
+          "seealso": [],
           "level": 0.0,
           "attributes": [
             {
@@ -2661,7 +2624,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_Cat_2_Jump__0__1_System_Boolean__",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -2794,6 +2756,8 @@
           ],
           "namespace": "CatLibrary",
           "example": [],
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "event",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.Cat-2.yml\" sourcestartlinenumber=\"2\">Eat event of this cat</p>\n",
@@ -2803,7 +2767,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_Cat_2_ownEat",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -3072,6 +3035,8 @@
             ],
             "id": "CatLibrary_Cat_2_op_Addition_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "operator",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.Cat-2.yml\" sourcestartlinenumber=\"2\">Addition operator of this class.</p>\n",
@@ -3081,7 +3046,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_Cat_2_op_Addition_CatLibrary_Cat__0__1__System_Int32_",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -3296,6 +3260,8 @@
             ],
             "id": "CatLibrary_Cat_2_op_Explicit_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "operator",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.Cat-2.yml\" sourcestartlinenumber=\"2\">Expilicit operator of this class.</p>\n<p>It means this cat can evolve to change to Tom. Tom and Jerry.</p>\n",
@@ -3305,7 +3271,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_Cat_2_op_Explicit_CatLibrary_Cat__0__1___CatLibrary_Tom",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -3564,6 +3529,8 @@
             ],
             "id": "CatLibrary_Cat_2_op_Subtraction_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "operator",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.Cat-2.yml\" sourcestartlinenumber=\"2\">Similar with operaotr +, refer to that topic.</p>\n",
@@ -3573,7 +3540,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_Cat_2_op_Subtraction_CatLibrary_Cat__0__1__System_Int32_",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -3715,6 +3681,8 @@
       }
     ]
   },
+  "exceptions": [],
+  "seealso": [],
   "inheritance": [
     {
       "uid": "System.Object",
@@ -4275,7 +4243,6 @@
   "yamlmime": "ManagedReference",
   "docurl": "https://github.com/dotnet/docfx/blob/main/samples/seed/specs/Cat.md/#L2",
   "sourceurl": "https://github.com/dotnet/docfx/blob/main/samples/seed/dotnet/solution/CatLibrary/Class1.cs/#L113",
-  "seealso": null,
   "id": "CatLibrary_Cat_2",
   "hideTitleType": false,
   "hideSubtitle": false,

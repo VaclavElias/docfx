@@ -393,6 +393,8 @@
       }
     ]
   },
+  "exceptions": [],
+  "seealso": [],
   "inheritance": [
     {
       "uid": "System.Object",
@@ -909,7 +911,6 @@
   "remarks": "",
   "conceptual": "",
   "implements": "",
-  "seealso": null,
   "id": "BuildFromVBSourceCode_BaseClass1",
   "hideTitleType": false,
   "hideSubtitle": false,

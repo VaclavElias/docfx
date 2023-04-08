@@ -458,6 +458,7 @@
               "description": "<p sourcefile=\"obj/api/CatLibrary.Tom.yml\" sourcestartlinenumber=\"1\">This is the exception in current documentation</p>\n"
             }
           ],
+          "seealso": [],
           "level": 0.0,
           "type": "method",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.Tom.yml\" sourcestartlinenumber=\"2\">This is a Tom Method with complex type as return</p>\n",
@@ -467,7 +468,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_Tom_TomMethod_CatLibrary_Complex_CatLibrary_TomFromBaseClass_CatLibrary_TomFromBaseClass__System_Tuple_System_String_CatLibrary_Tom__",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -585,6 +585,8 @@
       }
     ]
   },
+  "exceptions": [],
+  "seealso": [],
   "inheritance": [
     {
       "uid": "System.Object",
@@ -1020,7 +1022,6 @@
   "remarks": "",
   "conceptual": "",
   "implements": "",
-  "seealso": null,
   "id": "CatLibrary_Tom",
   "hideTitleType": false,
   "hideSubtitle": false,

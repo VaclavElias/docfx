@@ -173,6 +173,8 @@
             ],
             "id": "BuildFromProject_Inheritdoc_Issue7035_A_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "method",
           "summary": "",
@@ -182,7 +184,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "BuildFromProject_Inheritdoc_Issue7035_A",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -306,6 +307,8 @@
             ],
             "id": "BuildFromProject_Inheritdoc_Issue7035_B_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "method",
           "summary": "",
@@ -315,7 +318,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "BuildFromProject_Inheritdoc_Issue7035_B",
           "hideTitleType": false,
           "hideSubtitle": false

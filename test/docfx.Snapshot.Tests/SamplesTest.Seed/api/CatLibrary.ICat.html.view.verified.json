@@ -175,6 +175,8 @@
           ],
           "namespace": "CatLibrary",
           "example": [],
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "event",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.ICat.yml\" sourcestartlinenumber=\"2\">eat event of cat. Every cat must implement this event.</p>\n",
@@ -184,7 +186,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_ICat_eat",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -302,6 +303,8 @@
       }
     ]
   },
+  "exceptions": [],
+  "seealso": [],
   "level": 0.0,
   "inheritedMembers": [
     {
@@ -675,7 +678,6 @@
   "remarks": "",
   "conceptual": "",
   "implements": "",
-  "seealso": null,
   "id": "CatLibrary_ICat",
   "hideTitleType": false,
   "hideSubtitle": false,

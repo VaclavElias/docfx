@@ -222,6 +222,8 @@
             ],
             "id": "CatLibrary_TomFromBaseClass__ctor_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "constructor",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.TomFromBaseClass.yml\" sourcestartlinenumber=\"2\">This is a #ctor with parameter</p>\n",
@@ -231,7 +233,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_TomFromBaseClass__ctor_System_Int32_",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -349,6 +350,8 @@
       }
     ]
   },
+  "exceptions": [],
+  "seealso": [],
   "inheritance": [
     {
       "uid": "System.Object",
@@ -866,7 +869,6 @@
   "remarks": "",
   "conceptual": "",
   "implements": "",
-  "seealso": null,
   "id": "CatLibrary_TomFromBaseClass",
   "hideTitleType": false,
   "hideSubtitle": false,

@@ -269,6 +269,8 @@
             ],
             "id": "CatLibrary_IAnimal_Item_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "property",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.IAnimal.yml\" sourcestartlinenumber=\"2\">Return specific number animal's name.</p>\n",
@@ -278,7 +280,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_IAnimal_Item_System_Int32_",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -449,6 +450,8 @@
             ],
             "id": "CatLibrary_IAnimal_Name_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "property",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.IAnimal.yml\" sourcestartlinenumber=\"2\">Name of Animal.</p>\n",
@@ -458,7 +461,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_IAnimal_Name",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -589,6 +591,8 @@
             ],
             "id": "CatLibrary_IAnimal_Eat_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "method",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.IAnimal.yml\" sourcestartlinenumber=\"2\">Animal's eat method.</p>\n",
@@ -598,7 +602,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_IAnimal_Eat",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -771,6 +774,8 @@
             ],
             "id": "CatLibrary_IAnimal_Eat_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "method",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.IAnimal.yml\" sourcestartlinenumber=\"2\">Feed the animal with some food</p>\n",
@@ -780,7 +785,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_IAnimal_Eat_System_String_",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -960,6 +964,8 @@
             ],
             "id": "CatLibrary_IAnimal_Eat_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "method",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.IAnimal.yml\" sourcestartlinenumber=\"2\">Overload method of eat. This define the animal eat by which tool.</p>\n",
@@ -969,7 +975,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_IAnimal_Eat__1___0_",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -1099,6 +1104,8 @@
       }
     ]
   },
+  "exceptions": [],
+  "seealso": [],
   "level": 0.0,
   "conceptual": "<h3 id=\"welcome-to-the-animal-world\" sourcefile=\"specs/CatLibrary.IAnimal.md\" sourcestartlinenumber=\"6\">Welcome to the <strong sourcefile=\"specs/CatLibrary.IAnimal.md\" sourcestartlinenumber=\"6\">Animal</strong> world!</h3>\n",
   "_appName": "Seed",
@@ -1118,7 +1125,6 @@
   "docurl": "https://github.com/dotnet/docfx/blob/main/samples/seed/specs/CatLibrary.IAnimal.md/#L2",
   "sourceurl": "https://github.com/dotnet/docfx/blob/main/samples/seed/dotnet/solution/CatLibrary/Class1.cs/#L16",
   "implements": "",
-  "seealso": null,
   "id": "CatLibrary_IAnimal",
   "hideTitleType": false,
   "hideSubtitle": false,

@@ -173,6 +173,8 @@
             ],
             "id": "BuildFromProject_IInheritdoc_Issue7629_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "method",
           "summary": "<p sourcefile=\"obj/api/BuildFromProject.IInheritdoc.yml\" sourcestartlinenumber=\"2\">This method should do something...</p>\n",
@@ -182,7 +184,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "BuildFromProject_IInheritdoc_Issue7629",
           "hideTitleType": false,
           "hideSubtitle": false

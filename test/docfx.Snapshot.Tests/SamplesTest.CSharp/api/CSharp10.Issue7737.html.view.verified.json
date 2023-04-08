@@ -173,6 +173,8 @@
             ],
             "id": "CSharp10_Issue7737_Foo_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "method",
           "summary": "<p sourcefile=\"api/CSharp10.Issue7737.yml\" sourcestartlinenumber=\"2\"><xref href=\"System.Exception\" data-throw-if-not-resolved=\"false\"></xref></p>\n",
@@ -182,7 +184,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CSharp10_Issue7737_Foo",
           "hideTitleType": false,
           "hideSubtitle": false

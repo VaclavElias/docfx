@@ -175,6 +175,8 @@
           ],
           "namespace": "BuildFromVBSourceCode",
           "example": [],
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "field",
           "summary": "<p sourcefile=\"obj/api/BuildFromVBSourceCode.Class1.yml\" sourcestartlinenumber=\"2\">This is a <em sourcefile=\"obj/api/BuildFromVBSourceCode.Class1.yml\" sourcestartlinenumber=\"2\">Value</em> type</p>\n",
@@ -184,7 +186,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "BuildFromVBSourceCode_Class1_ValueClass",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -613,6 +614,8 @@
             ],
             "id": "BuildFromVBSourceCode_Class1_Value_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "method",
           "summary": "<p sourcefile=\"obj/api/BuildFromVBSourceCode.Class1.yml\" sourcestartlinenumber=\"2\">This is a <em sourcefile=\"obj/api/BuildFromVBSourceCode.Class1.yml\" sourcestartlinenumber=\"2\">Function</em></p>\n",
@@ -622,7 +625,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "BuildFromVBSourceCode_Class1_Value_System_String_",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -882,6 +884,8 @@
             ],
             "id": "BuildFromVBSourceCode_Class1_WithDeclarationKeyword_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "method",
           "summary": "<p sourcefile=\"obj/api/BuildFromVBSourceCode.Class1.yml\" sourcestartlinenumber=\"2\">What is <strong sourcefile=\"obj/api/BuildFromVBSourceCode.Class1.yml\" sourcestartlinenumber=\"2\">Sub</strong>?</p>\n",
@@ -891,7 +895,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "BuildFromVBSourceCode_Class1_WithDeclarationKeyword_BuildFromVBSourceCode_Class1_",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -1009,6 +1012,8 @@
       }
     ]
   },
+  "exceptions": [],
+  "seealso": [],
   "inheritance": [
     {
       "uid": "System.Object",
@@ -1523,7 +1528,6 @@
   "remarks": "",
   "conceptual": "",
   "implements": "",
-  "seealso": null,
   "id": "BuildFromVBSourceCode_Class1",
   "hideTitleType": false,
   "hideSubtitle": false,

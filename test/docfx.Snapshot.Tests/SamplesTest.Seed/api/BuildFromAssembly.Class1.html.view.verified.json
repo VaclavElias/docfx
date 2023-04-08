@@ -424,6 +424,8 @@
       }
     ]
   },
+  "exceptions": [],
+  "seealso": [],
   "inheritance": [
     {
       "uid": "System.Object",
@@ -841,7 +843,6 @@
   "remarks": "",
   "conceptual": "",
   "implements": "",
-  "seealso": null,
   "id": "BuildFromAssembly_Class1",
   "hideTitleType": false,
   "hideSubtitle": false,

@@ -269,6 +269,8 @@
             ],
             "id": "CatLibrary_ICatExtension_Play_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "method",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.ICatExtension.yml\" sourcestartlinenumber=\"2\">Extension method to let cat play</p>\n",
@@ -278,7 +280,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_ICatExtension_Play_CatLibrary_ICat_CatLibrary_Core_ContainersRefType_ColorType_",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -498,6 +499,8 @@
             ],
             "id": "CatLibrary_ICatExtension_Sleep_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "method",
           "summary": "<p sourcefile=\"obj/api/CatLibrary.ICatExtension.yml\" sourcestartlinenumber=\"2\">Extension method hint that how long the cat can sleep.</p>\n",
@@ -507,7 +510,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "CatLibrary_ICatExtension_Sleep_CatLibrary_ICat_System_Int64_",
           "hideTitleType": false,
           "hideSubtitle": false
@@ -625,6 +627,8 @@
       }
     ]
   },
+  "exceptions": [],
+  "seealso": [],
   "inheritance": [
     {
       "uid": "System.Object",
@@ -1042,7 +1046,6 @@
   "remarks": "",
   "conceptual": "",
   "implements": "",
-  "seealso": null,
   "id": "CatLibrary_ICatExtension",
   "hideTitleType": false,
   "hideSubtitle": false,
