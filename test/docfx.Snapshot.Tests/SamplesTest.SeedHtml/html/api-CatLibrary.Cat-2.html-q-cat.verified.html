@@ -468,10 +468,10 @@ mjx-container[jax="SVG"] path[data-c], mjx-container[jax="SVG"] use[data-c] {
     <dl><dt>Assembly</dt><dd>CatLibrary.dll</dd></dl>
   </div>
 
-  <div class="markdown summary"><p>Here's main class of this <em>Demo</em>.</p>
+  <div class="markdown summary"><p>Here's main class of this <i>Demo</i>.</p>
 <p>You can see mostly type of article within this class and you for more detail, please see the remarks.</p>
 <p></p>
-<p>this class is a template class. It has two Generic parameter. they are: <code data-dev-comment-type="typeparamref" class="typeparamref">T</code> and <code data-dev-comment-type="typeparamref" class="typeparamref">K</code>.</p>
+<p>this class is a template class. It has two Generic parameter. they are: <c class="typeparamref">T</c> and <c class="typeparamref">K</c>.</p>
 <p>The extension method of this class can refer to <a class="xref" href="CatLibrary.ICatExtension.html">ICat<wbr>Extension</a> class</p>
 </div>
   <div class="markdown conceptual">
@@ -553,14 +553,14 @@ This is a CAT class</p>
 
 
   <h2 id="CatLibrary_Cat_2_examples">Examples<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="#" href="#CatLibrary_Cat_2_examples" style="margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
-  <p>Here's example of how to create an instance of this class. As T is limited with <code>class</code> and K is limited with <code>struct</code>.</p>
-<pre><code class="lang-c# hljs language-c">    var a = new Cat(object, <span class="hljs-type">int</span>)();
-    <span class="hljs-type">int</span> catNumber = new <span class="hljs-type">int</span>();
-    unsafe
-    {
-        a.GetFeetLength(catNumber);
-    }</code><a class="btn border-0 code-action" title="copy" href="#"><i class="bi bi-clipboard"></i></a></pre>
-<p>As you see, here we bring in <strong>pointer</strong> so we need to add <code data-dev-comment-type="languageKeyword" class="languageKeyword">unsafe</code> keyword.</p>
+  <p>Here's example of how to create an instance of this class. As T is limited with <c>class</c> and K is limited with <c>struct</c>.</p>
+<pre><code class="lang-csharp hljs language-csharp"><span class="hljs-keyword">var</span> a = <span class="hljs-keyword">new</span> Cat(<span class="hljs-built_in">object</span>, <span class="hljs-built_in">int</span>)();
+<span class="hljs-built_in">int</span> catNumber = <span class="hljs-keyword">new</span> <span class="hljs-built_in">int</span>();
+<span class="hljs-keyword">unsafe</span>
+{
+    a.GetFeetLength(catNumber);
+}</code><a class="btn border-0 code-action" title="copy" href="#"><i class="bi bi-clipboard"></i></a></pre>
+<p>As you see, here we bring in <b>pointer</b> so we need to add <c class="languageKeyword">unsafe</c> keyword.</p>
 
 
   <h2 id="CatLibrary_Cat_2_remarks">Remarks<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="#" href="#CatLibrary_Cat_2_remarks" style="margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
@@ -751,7 +751,7 @@ This is a CAT class</p>
   <a class="header-action link-secondary" title="View source" href="https://github.com/dotnet/docfx/blob/main/samples/seed/dotnet/solution/CatLibrary/Class1.cs/#L204"><i class="bi bi-code-slash"></i></a>
   <a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="#" href="#CatLibrary_Cat_2_Item_System_String_" style="margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h3>
 
-  <div class="markdown level1 summary"><p>This is index property of Cat. You can see that the visibility is different between <code>get</code> and <code>set</code> method.</p>
+  <div class="markdown level1 summary"><p>This is index property of Cat. You can see that the visibility is different between <c>get</c> and <c>set</c> method.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
 
@@ -856,12 +856,6 @@ This is a CAT class</p>
 
 
 
-  <h4 class="section" id="exceptions">Exceptions<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="#" href="#exceptions" style="margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h4>
-  <dl class="parameters">
-    <dt><a class="xref external" href="https://learn.microsoft.com/dotnet/api/system.argumentexception" target="_blank" rel="noopener noreferrer nofollow">Argument<wbr>Exception</a></dt>
-    <dd><p>This is an <code>overridden</code> argument exception. you can add additional exception by adding different exception <code>type</code>.</p>
-</dd>
-  </dl>
 
 
 
@@ -872,7 +866,7 @@ This is a CAT class</p>
   <a class="header-action link-secondary" title="View source" href="https://github.com/dotnet/docfx/blob/main/samples/seed/dotnet/solution/CatLibrary/Class1.cs/#L165"><i class="bi bi-code-slash"></i></a>
   <a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="#" href="#CatLibrary_Cat_2_Equals_System_Object_" style="margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h3>
 
-  <div class="markdown level1 summary"><p>Override the method of <code>Object.Equals(object obj).</code></p>
+  <div class="markdown level1 summary"><p>Override the method of <c>Object.Equals(object obj).</c></p>
 </div>
   <div class="markdown level1 conceptual"></div>
 
@@ -911,8 +905,8 @@ This is a CAT class</p>
   <a class="header-action link-secondary" title="View source" href="https://github.com/dotnet/docfx/blob/main/samples/seed/dotnet/solution/CatLibrary/Class1.cs/#L174"><i class="bi bi-code-slash"></i></a>
   <a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="#" href="#CatLibrary_Cat_2_GetTailLength_System_Int32__System_Object___" style="margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h3>
 
-  <div class="markdown level1 summary"><p>It's an <code>unsafe</code> method.
-As you see, <code data-dev-comment-type="paramref" class="paramref">catName</code> is a <strong>pointer</strong>, so we need to add <code data-dev-comment-type="languageKeyword" class="languageKeyword">unsafe</code> keyword.</p>
+  <div class="markdown level1 summary"><p>It's an <c>unsafe</c> method.
+As you see, <c class="paramref">catName</c> is a <b>pointer</b>, so we need to add <c class="languageKeyword">unsafe</c> keyword.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
 
@@ -984,7 +978,7 @@ As you see, <code data-dev-comment-type="paramref" class="paramref">catName</cod
 
 
 
-  <h4 class="section" id="exceptions-1">Exceptions<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="#" href="#exceptions-1" style="margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h4>
+  <h4 class="section" id="exceptions">Exceptions<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="#" href="#exceptions" style="margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h4>
   <dl class="parameters">
     <dt><a class="xref external" href="https://learn.microsoft.com/dotnet/api/system.argumentexception" target="_blank" rel="noopener noreferrer nofollow">Argument<wbr>Exception</a></dt>
     <dd><p>This is an argument exception</p>
@@ -1058,7 +1052,7 @@ As you see, <code data-dev-comment-type="paramref" class="paramref">catName</cod
   <h4 class="section" id="returns-3">Returns<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="#" href="#returns-3" style="margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h4>
   <dl class="parameters">
     <dt><a class="xref external" href="https://learn.microsoft.com/dotnet/api/system.int32" target="_blank" rel="noopener noreferrer nofollow">int</a></dt>
-    <dd><p>Result with <em>int</em> type.</p>
+    <dd><p>Result with <i>int</i> type.</p>
 </dd>
   </dl>
 

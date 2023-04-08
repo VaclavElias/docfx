@@ -410,7 +410,7 @@
     ],
     "level": 0.0
   },
-  "summary": "<p sourcefile=\"obj/api/BuildFromAssembly.Class1.yml\" sourcestartlinenumber=\"2\">This is a test class.</p>\n",
+  "summary": "<p sourcefile=\"obj/api/BuildFromAssembly.Class1.yml\" sourcestartlinenumber=\"1\">This is a test class.</p>\n",
   "example": [],
   "syntax": {
     "content": [
@@ -424,6 +424,8 @@
       }
     ]
   },
+  "exceptions": [],
+  "seealso": [],
   "inheritance": [
     {
       "uid": "System.Object",
@@ -841,7 +843,6 @@
   "remarks": "",
   "conceptual": "",
   "implements": "",
-  "seealso": null,
   "id": "BuildFromAssembly_Class1",
   "hideTitleType": false,
   "hideSubtitle": false,

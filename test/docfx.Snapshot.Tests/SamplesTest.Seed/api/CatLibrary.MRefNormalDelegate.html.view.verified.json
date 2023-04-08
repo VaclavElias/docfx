@@ -145,7 +145,7 @@
     ],
     "level": 0.0
   },
-  "summary": "<p sourcefile=\"obj/api/CatLibrary.MRefNormalDelegate.yml\" sourcestartlinenumber=\"2\">Delegate in the namespace</p>\n",
+  "summary": "<p sourcefile=\"obj/api/CatLibrary.MRefNormalDelegate.yml\" sourcestartlinenumber=\"1\">Delegate in the namespace</p>\n",
   "example": [],
   "syntax": {
     "content": [
@@ -256,6 +256,8 @@
       }
     ]
   },
+  "exceptions": [],
+  "seealso": [],
   "level": 0.0,
   "_appName": "Seed",
   "_appTitle": "docfx seed website",
@@ -276,7 +278,6 @@
   "remarks": "",
   "conceptual": "",
   "implements": "",
-  "seealso": null,
   "id": "CatLibrary_MRefNormalDelegate",
   "hideTitleType": false,
   "hideSubtitle": false,

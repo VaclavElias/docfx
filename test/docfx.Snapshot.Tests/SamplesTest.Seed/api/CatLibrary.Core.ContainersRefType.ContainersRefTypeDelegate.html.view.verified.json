@@ -145,7 +145,7 @@
     ],
     "level": 0.0
   },
-  "summary": "<p sourcefile=\"obj/api/CatLibrary.Core.ContainersRefType.ContainersRefTypeDelegate.yml\" sourcestartlinenumber=\"2\">Delegate ContainersRefTypeDelegate</p>\n",
+  "summary": "<p sourcefile=\"obj/api/CatLibrary.Core.ContainersRefType.ContainersRefTypeDelegate.yml\" sourcestartlinenumber=\"1\">Delegate ContainersRefTypeDelegate</p>\n",
   "example": [],
   "syntax": {
     "content": [
@@ -159,6 +159,8 @@
       }
     ]
   },
+  "exceptions": [],
+  "seealso": [],
   "level": 0.0,
   "_appName": "Seed",
   "_appTitle": "docfx seed website",
@@ -179,7 +181,6 @@
   "remarks": "",
   "conceptual": "",
   "implements": "",
-  "seealso": null,
   "id": "CatLibrary_Core_ContainersRefType_ContainersRefTypeDelegate",
   "hideTitleType": false,
   "hideSubtitle": false,

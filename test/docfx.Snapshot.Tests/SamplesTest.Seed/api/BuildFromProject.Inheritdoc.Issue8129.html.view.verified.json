@@ -221,6 +221,8 @@
             ],
             "id": "BuildFromProject_Inheritdoc_Issue8129__ctor_"
           },
+          "exceptions": [],
+          "seealso": [],
           "level": 0.0,
           "type": "constructor",
           "summary": "",
@@ -230,7 +232,6 @@
           "remarks": "",
           "conceptual": "",
           "implements": "",
-          "seealso": null,
           "id": "BuildFromProject_Inheritdoc_Issue8129__ctor_System_String_",
           "hideTitleType": false,
           "hideSubtitle": false
