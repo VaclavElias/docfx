@@ -8,6 +8,7 @@ using Microsoft.DocAsCode.Build.Common;
 using Microsoft.DocAsCode.Common;
 using Microsoft.DocAsCode.DataContracts.Common;
 using Microsoft.DocAsCode.Plugins;
+using Stubble.Core.Builders;
 
 namespace Microsoft.DocAsCode.Build.ConceptualDocuments;
 
@@ -29,6 +30,17 @@ public class BuildConceptualDocument : BaseDocumentBuildStep
         }
         var content = (Dictionary<string, object>)model.Content;
         var markdown = (string)content[ConceptualKey];
+
+        var stubble = new StubbleBuilder().Build();
+        var mustachedMarkdown = stubble.Render(markdown, content);
+
+        if (markdown != mustachedMarkdown)
+        {
+            Logger.LogWarning($"Mustache applied for {model.File}");
+
+            markdown = mustachedMarkdown;
+        }
+
         var result = host.Markup(markdown, model.OriginalFileAndType, false, true);
 
         var htmlInfo = HtmlDocumentUtility.SeparateHtml(result.Html);

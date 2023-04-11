@@ -5,4 +5,8 @@
     <ProjectReference Include="..\Microsoft.DocAsCode.DataContracts.Common\Microsoft.DocAsCode.DataContracts.Common.csproj" />
     <ProjectReference Include="..\Microsoft.DocAsCode.Plugins\Microsoft.DocAsCode.Plugins.csproj" />
   </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Stubble.Core" />
+  </ItemGroup>
 </Project>
